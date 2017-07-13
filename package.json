@@ -1,0 +1,13 @@
+{
+  "name": "transformers-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Damir Šehić",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.11.2"
+  }
+}

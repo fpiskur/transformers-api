@@ -1,0 +1,51 @@
+{
+  "factions": [
+    {
+      "id": 0,
+      "name": "Autobots"
+    }, {
+      "id": 1,
+      "name": "Decepticons"
+    }
+  ],
+  "vehicleTypes": [
+    {
+      "id": 0,
+      "type": "Truck"
+    }, {
+      "id": 1,
+      "Type": "Car"
+    }, {
+      "id": 2,
+      "Type": "Plane"
+    }, {
+      "id": 3,
+      "Type": "Tank"
+    }
+  ],
+  "transformers": [
+    {
+      "id": 0,
+      "name": "Optimus Prime",
+      "vehicleType": 0,
+      "weapons": [
+        "sword",
+        "shield"
+      ]
+    }, {
+      "id": 1,
+      "name": "Bumblebee",
+      "vehicleType": 1,
+      "weapons": [
+        "machine gun"
+      ]
+    }, {
+      "id": 2,
+      "name": "Megatron",
+      "vehicleType": 2,
+      "weapons":[
+        "canon"
+      ]
+    }
+  ]
+}
