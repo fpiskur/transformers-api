@@ -93,7 +93,7 @@
       "vehicleGroup": "Land",
       "vehicleType": "Car",
       "vehicleModel": "Camaro",
-      "weapons": [
+      "gear": [
         "machine gun"
       ],
       "status": "INJURED"
@@ -103,7 +103,7 @@
       "vehicleGroup": "Air",
       "vehicleType": "Plane",
       "vehicleModel": "Sukhoi",
-      "weapons":[
+      "gear":[
         "canon"
       ],
       "status": "MIA"
