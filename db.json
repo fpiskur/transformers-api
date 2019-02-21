@@ -102,7 +102,7 @@
     }, {
       "id": 2,
       "name": "Megatron",
-      "faction": "Decepticons"
+      "faction": "Decepticons",
       "vehicleGroup": "Air",
       "vehicleType": "Plane",
       "vehicleModel": "Sukhoi",
