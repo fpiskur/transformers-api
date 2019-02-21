@@ -79,6 +79,7 @@
     {
       "id": 0,
       "name": "Optimus Prime",
+      "faction": "Autobots",
       "vehicleGroup": "Land",
       "vehicleType": "Truck",
       "vehicleModel": "Western Star 5700",
@@ -90,6 +91,7 @@
     }, {
       "id": 1,
       "name": "Bumblebee",
+      "faction": "Autobots",
       "vehicleGroup": "Land",
       "vehicleType": "Car",
       "vehicleModel": "Camaro",
@@ -100,6 +102,7 @@
     }, {
       "id": 2,
       "name": "Megatron",
+      "faction": "Decepticons"
       "vehicleGroup": "Air",
       "vehicleType": "Plane",
       "vehicleModel": "Sukhoi",
