@@ -110,6 +110,17 @@
         "canon"
       ],
       "status": "MIA"
+    }, {
+      "id": 3,
+      "name": "Mujo",
+      "faction": "Decepticons",
+      "vehicleGroup": "Air",
+      "vehicleType": "Plane",
+      "vehicleModel": "Sukhoi",
+      "gear":[
+        "sarma"
+      ],
+      "status": "MIA"
     }
   ]
 }
