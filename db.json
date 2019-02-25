@@ -110,17 +110,6 @@
         "canon"
       ],
       "status": "MIA"
-    }, {
-      "id": "test-id-1",
-      "name": "Gargamel",
-      "faction": "Autobots",
-      "vehicleGroup": "Land",
-      "vehicleType": "Car",
-      "vehicleModel": "Lamborghini",
-      "gear": [
-        "hvala imam sve"
-      ],
-      "status": "MIA"
     }
   ]
 }
